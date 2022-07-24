@@ -10,7 +10,7 @@ function Nav() {
 			<a className={Styles.link} href="/projects">
 				Projects
 			</a>
-			<a className={Styles.link} href="/about">
+			<a className={Styles.link} href="/404">
 				About
 			</a>
 			<a className={Styles.social} href="https://github.com/BlackBoxCompany">
