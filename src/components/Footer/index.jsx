@@ -5,7 +5,6 @@ function Footer() {
 	return (
 		<footer className={Styles.footer}>
 			&copy; {new Date().getFullYear()} BlackBox
-			<small className={Styles.byline}>🚀 Built with Astro</small>
 		</footer>
 	);
 }

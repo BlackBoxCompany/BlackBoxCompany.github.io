@@ -1,15 +1,15 @@
 ---
 layout: ../../layouts/project.astro
-title: Low Power Computer Vision Platform
+title: Platform
 client: Self
 publishDate: 2020-03-02 00:00:00
 img: https://images.unsplash.com/photo-1658517756924-afabc20719a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1339&q=80
 description: |
   We built a prototype computer-vision network on low power devices.
 tags:
-  - realtime
-  - object detection
-  - low power
+  - Real Time
+  - Low Power
+  - Computer Vision
 ---
 
 Rubber cheese mascarpone cut the cheese. Jarlsberg parmesan cheesy grin cream cheese port-salut stinking bishop ricotta brie. Roquefort when the cheese comes out everybody's happy goat cheese triangles stilton cheese and biscuits goat babybel. Bocconcini roquefort queso danish fontina pecorino.
